@@ -1,2 +1,2 @@
 # DiscordBot 
-# nodejs
+Discord Bot made with node.js
